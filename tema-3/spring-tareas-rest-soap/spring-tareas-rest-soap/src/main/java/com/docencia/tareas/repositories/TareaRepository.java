@@ -3,7 +3,6 @@ package com.docencia.tareas.repositories;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.xml.resolver.apps.resolver;
 import org.springframework.stereotype.Repository;
 
 import com.docencia.tareas.model.Tarea;
