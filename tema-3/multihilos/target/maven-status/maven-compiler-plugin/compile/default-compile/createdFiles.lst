@@ -1,2 +1,2 @@
-java/org/fomacion/hilos/ThreadPoolEjemplo.class
-java/org/fomacion/hilos/ThreadPoolEjemplo$Tarea.class
+java/org/fomacion/hilos/multihilos/Cola.class
+java/org/fomacion/hilos/multihilos/EjemploNotifyAll.class
